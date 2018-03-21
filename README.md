@@ -5,7 +5,7 @@
 <br/><br/><br/>
 ## Descripción
 
-Práctica nº 1 de la asignatura Tipología y ciclo de vida de los datos.
+Práctica nº 1 de la asignatura _Tipología y ciclo de vida de los datos_.<br/>
 Máster de Ciencia de Datos de la Universitat Oberta de Catalunya.
 
 Uso de herramientas de extracción de datos Web. En este caso práctico se realizará, mediante lenguaje Python.
