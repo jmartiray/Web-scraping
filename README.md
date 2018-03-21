@@ -1,19 +1,27 @@
 # Práctica 1: Web scraping 
 
-1. Título del dataset.
 
-    Extracción de datos **IMSLP**
 
-2. Subtítulo del dataset. Agregad una descripción ágil de vuestro conjunto de datos por vuestro subtítulo.
-3. Imagen. Agregad una imagen que identifique vuestro dataset visualmente.
-4. Contexto. ¿Cuál es la materia del conjunto de datos?
-5. Contenido. ¿Qué campos incluye? ¿Cuál es el periodo de tiempo de los datos y cómo se ha recogido?
-6. Agradecimientos. ¿Quién es propietario del conjunto de datos? Incluid citas de investigación o análisis anteriores.
-7. Inspiración. ¿Por qué es interesante este conjunto de datos? ¿Qué preguntas le gustaría responder la comunidad?
-8. Licencia.
+## Descripción
 
-    ○ Released Under CC BY-SA 4.0 License
-    
+Esta práctica se ha realizado de forma individual por Jose Manuel Martínez Raya.
 
-9. Código: Hay que adjuntar el código con el que habéis generado el dataset.
-10. Dataset: Dataset en formato CSV.
+
+## 
+
+2. Un documento Word, Open Office o PDF con las respuestas a las preguntas y
+los nombres de los componentes del grupo.
+3. Una carpeta con el código Python o R generado para obtener los datos.
+4. El fichero CSV con los datos.
+
+
+
+## Recursos
+
+● El lenguaje Python.
+
+● Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+
+● Simon Munzert, Christian Rubba, Peter Meißner, Dominic Nyhuis. (2015). Automated Data Collection with R: A Practical Guide to Web  Scraping and Text Mining. John Wiley & Sons.
+
+● Tutorial de Github https://guides.github.com/activities/hello-world.
