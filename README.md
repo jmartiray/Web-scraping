@@ -17,8 +17,8 @@ Esta práctica se ha realizado individualmente por _Jose Manuel Martínez Raya_.
 
 ## Ficheros
 
-2. Documento PDF con las respuestas a las preguntas planteadas. **En proceso**
+1. Documento PDF con las respuestas a las preguntas planteadas. **En proceso**
 
-3. Carpeta con el código Python.  **Pendiente**
+2. Carpeta con el código Python.  **Pendiente**
 
-4. El fichero CSV con los datos. **Pendiente**
+3. El fichero CSV con los datos. **Pendiente**
