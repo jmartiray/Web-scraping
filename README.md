@@ -22,6 +22,7 @@ los nombres de los componentes del grupo.
 
 ● Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
 
-● Simon Munzert, Christian Rubba, Peter Meißner, Dominic Nyhuis. (2015). Automated Data Collection with R: A Practical Guide to Web  Scraping and Text Mining. John Wiley & Sons.
+● Simon Munzert, Christian Rubba, Peter Meißner, Dominic Nyhuis. (2015).<br/> 
+    Automated Data Collection with R: A Practical Guide to Web  Scraping and Text Mining. John Wiley & Sons.
 
 ● Tutorial de Github https://guides.github.com/activities/hello-world.
