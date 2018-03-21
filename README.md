@@ -1,8 +1,5 @@
 # Práctica 1: Web scraping 
-
-
-
-<br/><br/><br/>
+<br/><br/>
 ## Descripción
 
 Práctica nº 1 de la asignatura _Tipología y ciclo de vida de los datos_.<br/>
