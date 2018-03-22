@@ -7,7 +7,7 @@ Máster de Ciencia de Datos de la Universitat Oberta de Catalunya.
 
 Uso de herramientas de extracción de datos Web. En este caso práctico se realizará, mediante lenguaje Python.
 
-El repositorio de donde se realizará la extración será:  **http://imslp.org/**
+El sitio Web en donde se realizará la extración es **https://www.yaencontre.com/alquiler/pisos/barcelona**
 <br/><br/>
 
 ## Autores
