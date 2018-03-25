@@ -17,8 +17,10 @@ Esta práctica se ha realizado individualmente por _Jose Manuel Martínez Raya_.
 
 ## Ficheros
 
-1. Documento PDF con las respuestas a las preguntas planteadas. **En proceso**
-
-2. Carpeta con el código Python.  **Pendiente**
-
+1. Documento PDF con las respuestas a las preguntas planteadas. **En proceso**<br/>
+  _respuestas.pdf_
+    
+2. Carpeta/archivo con el código Python.  **En proceso**<br/>
+  _viviendas_scraping.py_
+  
 3. El fichero CSV con los datos. **Pendiente**
