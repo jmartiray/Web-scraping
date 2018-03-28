@@ -1,4 +1,4 @@
-Tipo,Prov_Ciudad,Zona,Calle,Precio,Metros,Habitación,Baños
+Tipo,Prov_Ciudad,Zona,Calle,Precio,Metros,Habitaciones,Baños
 Piso,Barcelona,Horta,calle Horta,950,75,2,1
 Piso,Barcelona,Eixample dreta,ronda Sant Pere,2550,126,4,2
 Piso,Barcelona,Horta,paseo Maragall,825,80,3,1
