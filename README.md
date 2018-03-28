@@ -5,9 +5,9 @@
 Práctica nº 1 de la asignatura _Tipología y ciclo de vida de los datos_.<br/>
 Máster de Ciencia de Datos de la Universitat Oberta de Catalunya.
 
-Uso de herramientas de extracción de datos Web. En este caso práctico se realizará, mediante lenguaje Python.
+Uso de herramientas de extracción de datos Web. Este caso práctico se realizará, mediante lenguaje Python v2.7.
 
-El sitio Web en donde se realizará la extración es **https://www.yaencontre.com/alquiler/pisos/barcelona**
+El sitio Web donde se realizará la extración será **https://www.yaencontre.com/alquiler/viviendas**
 <br/><br/>
 
 ## Autores
@@ -17,10 +17,11 @@ Esta práctica se ha realizado individualmente por _Jose Manuel Martínez Raya_.
 
 ## Ficheros
 
-1. Documento PDF con las respuestas a las preguntas planteadas. **En proceso**<br/>
+1. PDF con las respuestas e información más detallada.<br/>
   _respuestas.pdf_
     
-2. Carpeta/archivo con el código Python.  **En proceso**<br/>
-  _viviendas_scraping.py_
+2. Archivo Python con el código ejecutable (v2.7).<br/>
+  _scraping.py_
   
-3. El fichero CSV con los datos. **Pendiente**
+3. Conjunto de datos extraido.<br/>
+  _dataset.csv_
