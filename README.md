@@ -20,7 +20,7 @@ Esta práctica se ha realizado individualmente por _Jose Manuel Martínez Raya_.
 1. PDF con las respuestas e información más detallada.<br/>
   _respuestas.pdf_
     
-2. Archivo Python con el código ejecutable (v2.7).<br/>
+2. Archivo Python con el código ejecutable.<br/>
   _scraping.py_
   
 3. Conjunto de datos extraido.<br/>
